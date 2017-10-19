@@ -4,5 +4,8 @@ Habia una vez una princesa muy hermosa. Vivia con su madrasta malvada,que la hac
 trabajar todos los dias. como una lavandera.
 =======
 trabajar todos los dias. Pobrecita
+<<<<<<< HEAD
 >>>>>>> 404ab13d7483441155dfbecce15f916f2c2d92c9
 no hiso caso a la madre
+=======
+>>>>>>> a8088d10f92f848f7d9c05c9abca2de60648b52c
